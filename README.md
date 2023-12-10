@@ -10,6 +10,7 @@
 <p align="center"><img src="https://komarev.com/ghpvc/?username=crtmitchn&color=green" alt="crtmitchn"/></p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=crtmitchn&show_icons=true&theme=dracula" alt="crtmitchn"/></p>
+
 ```
 - 🔭 I’m currently working on my MC bot
 - 🌱 I’m currently learning JS/TS, C++ and Python
