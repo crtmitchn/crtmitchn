@@ -5,21 +5,17 @@
 
 <h3 align="center">Bio</h3>
 
-- **朗Name:** `Nikita/wylite`.
-- **嵐Bio:** `I am junior JavaScript(nodejs) developer. Currently studying JavaScript and some sort of HTML/CSS. Small JS experience, self-learning. Working in GNU / Linux systems and working on servers(e.g. nginx, MySQL etc.), maybe other games servers too.`
+- **My name is:** `Nik, but you can use Mitchn`.
 
 <h3 align="center">Statistics</h3>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=wyiite&color=green" alt="wyiite"/></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=crtmitchn&color=green" alt="crtmitchn"/></p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=wyiite&show_icons=true&theme=dracula" alt="Nikita"/></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=crtmitchn&show_icons=true&theme=dracula" alt="crtmitchn"/></p>
 
 ## Short info
 
 ```
-- 🔭 I’m currently working on azumi-js
-- 🌱 I’m currently learning JS
-- 👯 I’m looking to collaborate on azumi-js
-- 🤔 I’m looking for help with JS
-- 📫 How to reach me: Discord(wylite#0001), Telegram(@wylite)
-- 😄 Pronouns: he/him/his
+- 🔭 I’m currently working on my MC bot
+- 🌱 I’m currently learning JS/TS, C++ and Python
+- 📫 How to reach me: Discord @mitchn, TG @mi7chn
 ```
