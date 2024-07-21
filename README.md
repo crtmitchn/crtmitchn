@@ -6,13 +6,12 @@
 
 - **My name is:** `Nik, but you can use Mitchn`.
 
-<h3 align="center">Statistics</h3>
+<!--<h3 align="center">Statistics</h3>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=crtmitchn&color=green" alt="crtmitchn"/></p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=crtmitchn&show_icons=true&theme=dracula" alt="crtmitchn"/></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=crtmitchn&show_icons=true&theme=dracula" alt="crtmitchn"/></p>-->
 
 ```
-- 🔭 I’m currently working on my MC bot
-- 🌱 I’m currently learning JS/TS, C++ and Python
+- 🌱 I’m currently learning JS/TS
 - 📫 How to reach me: Discord @mitchn, TG @mi7chn
 ```
